@@ -1,5 +1,5 @@
 # Painting-Plotter
-A plotting machine designed to replicate vector paths using LaserWeb. A CNC system loosely based on OpenBuilds machines. The machine is 
+A plotting machine designed to replicate vector paths using LaserWeb. A CNC system loosely based on the [ACRO system](https://openbuilds.com/builds/openbuilds-acro-system.5416/) from OpenBuilds. The machine is 
 powered by an Arduino with a GRBL Shield. 
 
 # GRBL Settings
