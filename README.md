@@ -4,8 +4,7 @@
 A plotting machine designed to replicate vector paths using LaserWeb. A CNC system loosely based on the [ACRO system](https://openbuilds.com/builds/openbuilds-acro-system.5416/) from OpenBuilds. The machine is 
 powered by an Arduino with a GRBL Shield. 
 
-<a href="https://youtu.be/eCr1ogUuNPA
-" target="_blank"><img src="https://youtu.be/eCr1ogUuNPA/0.jpg" 
+<a href="https://www.youtube.com/embed/eCr1ogUuNPA" target="_blank"><img src="https://www.youtube.com/embed/eCr1ogUuNPA" 
 alt="IMAGE ALT TEXT HERE" width="240" height="180" border="10" /></a>
 
 # GRBL Settings
