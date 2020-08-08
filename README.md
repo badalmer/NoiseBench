@@ -5,8 +5,8 @@ A plotting machine designed to replicate vector paths using LaserWeb. A CNC syst
 powered by an Arduino with a GRBL Shield.
 
 # GRBL Settings
-*$$
-*$0=10 
+1. $$
+2. $0=10 
 *$1=100 
 *$2=0 
 *$3=0 
