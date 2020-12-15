@@ -1,4 +1,4 @@
-[![EXAMPLE](https://github.com/badalmer/Painting-Plotter/blob/master/IMG_20180301_171956.jpg)](https://www.youtube.com/embed/eCr1ogUuNPA)
+[![EXAMPLE](https://github.com/badalmer/Machines/blob/master/IMG_20180301_171956.jpg)
 
 # Painting-Plotter
 A plotting machine designed to replicate vector paths using LaserWeb. A CNC system loosely based on the [ACRO system](https://openbuilds.com/builds/openbuilds-acro-system.5416/) from OpenBuilds. The machine is 
