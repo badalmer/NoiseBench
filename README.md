@@ -1,7 +1,7 @@
 ![plotting machine.jpg](https://github.com/badalmer/NoiseBench/blob/master/plotting%20machine.jpg)
 
 # Painting-Plotter
-A plotting machine designed to replicate vector paths using LaserWeb. A CNC system loosely based on the [ACRO system](https://openbuilds.com/builds/openbuilds-acro-system.5416/) from OpenBuilds. The machine is 
+A plotting machine designed to replicate vector paths using [LightBurn](https://lightburnsoftware.com/). A CNC system loosely based on the [ACRO system](https://openbuilds.com/builds/openbuilds-acro-system.5416/) from OpenBuilds. The machine is 
 powered by an Arduino with a GRBL Shield.
 
 # GRBL Settings
