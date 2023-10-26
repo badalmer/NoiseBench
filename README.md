@@ -73,7 +73,7 @@ powered by an Arduino with a GRBL Shield.
 |	12	|	Delrin Mini Wheels	|	‎Richer-R	|	Ryox42zicbr-02	|	OpenBuilds	|	Zephyrhills, Florida	|	Unknown	|	$14.99		$29.98	|	10 Pack	|
 |	8	|	Eccentric Spacer V Wheel [5mm]	|	ZTSHBK	|	B091TVR1PS	|	Amazon	|	Shanghang	|	Shanghang	|	16.68		16.68	|	10 Pack	|
 |	8	|	Acrylic Spacers	|	NylonSpacer	|	819368020717	|	OpenBuilds	|	Zephyrhills, Florida	|	Unknown	|	$2.09		$2.09	|	10 Pack	|
-|	16	|	M5 Screw [30mm]	|	RELIABLE	|	PPMZM530MR	|	RONA	|	Montreal, QC	|	Longueuil, QC	|	$3.29		$9.87	|	5 Pack	|
+|	16	|	M5 Screw (30mm)	|	RELIABLE	|	PPMZM530MR	|	RONA	|	Montreal, QC	|	Longueuil, QC	|	$3.29		$9.87	|	5 Pack	|
 |	16	|	Nylon Insert Hex Stop Nut	|	PRECISION	|	700-005	|	RONA	|	Montreal, QC	|	Longueuil, QC	|	$21.59		$21.59	|	100 Pack	|
 |	16	|	Washers	|	PAULIN	|	730-005	|	Home Depot	|	Montreal, QC	|	Milton, ON	|	$0.11		$1.76	|		|
 
