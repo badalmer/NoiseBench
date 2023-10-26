@@ -43,9 +43,9 @@ powered by an Arduino with a GRBL Shield.
 
 # Parts List
 
+**FRAME
 |	No.	|	Component	|	BRAND	|	ASIN	|	Sourced	|	Source Location	|	Manufactured	|	Price	|	TOTAL	|	Notes	|
 |	:---	|	:---	|	:---	|	:---	|	:---	|	:---	|	:---	|	---:	|	---:	|	:---	|
-|		|	FRAME	|		|		|		|		|		|		|		|		|
 |	3	|	2040 Aluminium Rail [40"]	|	NULL	|	NULL	|	FazTek	|	Montreal, QC	|	Newnan, GA	|	$11.27	|	$33.81	|		|
 |	2	|	2040 Aluminium Rail [50"]	|	NULL	|	NULL	|	FazTek	|	Montreal, QC	|	Newnan, GA	|	$13.43	|	$26.86	|		|
 |	6	|	Black Acrylic Gantry Cart & Plates	|	Plaskolite South LLC	|	NULL	|	Plastic World	|	Toronto, ON	|	Olive Branch, MS	|	$11.00	|	$11.00	|	Designed and Lasercut by me	|
