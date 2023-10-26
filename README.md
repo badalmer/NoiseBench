@@ -41,7 +41,7 @@ powered by an Arduino with a GRBL Shield.
 - $131=1100.000
 - $132=25.000
 
-# Parts List
+# PARTS LIST
 
 ### FRAME
 |	No.	|	Component	|	BRAND	|	ASIN	|	Sourced	|	Source Location	|	Manufactured	|	Price	|	TOTAL	|	Notes	|
