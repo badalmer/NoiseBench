@@ -43,7 +43,7 @@ powered by an Arduino with a GRBL Shield.
 
 # Parts List
 
-**FRAME
+###FRAME
 |	No.	|	Component	|	BRAND	|	ASIN	|	Sourced	|	Source Location	|	Manufactured	|	Price	|	TOTAL	|	Notes	|
 |	:---	|	:---	|	:---	|	:---	|	:---	|	:---	|	:---	|	---:	|	---:	|	:---	|
 |	3	|	2040 Aluminium Rail [40"]	|	NULL	|	NULL	|	FazTek	|	Montreal, QC	|	Newnan, GA	|	$11.27	|	$33.81	|		|
